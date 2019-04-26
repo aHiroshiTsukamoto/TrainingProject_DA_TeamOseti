@@ -1,0 +1,6 @@
+*.csv
+comments/*
+dic/*
+dic
+__pycache__/*
+__pycache__
